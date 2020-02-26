@@ -1,2 +1,2 @@
 # FizzBuzz
-My take on the classic FizzBuzz game
+My take on the classic FizzBuzz challenge
